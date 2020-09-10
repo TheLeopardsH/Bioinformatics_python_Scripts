@@ -10,4 +10,4 @@ Python scripts to solve Bioinformatics/Computational Biology tasks
 # 4-RabbitCount.py
     RabbitCount.py is used to calculate the total number of rabbit pairs that will be present after n months, if we begin with 1 pair and in each generation, every pair of reproduction-age rabbits produces a litter of k rabbit pairs where k is the number of offspring
 # 5-ComputingGCContent.py 
-    ComputingGCContent.py is for highest GC-content in  DNA strings in FASTA format.
+    ComputingGCContent.py is for computing the highest GC-content in  DNA strings in FASTA format.
