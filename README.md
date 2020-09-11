@@ -13,3 +13,5 @@ Python scripts to solve Bioinformatics/Computational Biology tasks
     ComputingGCContent.py is for computing the highest GC-content in  DNA strings in FASTA format.
 # 6-CountingPointMutations.py
     CountingPointMutations.py is for Counting Point Mutations(base change in nucleotide) in DNA.(Hamming Distance)
+# 7-DominantAllele.py
+    DominantAllele.py is for computing an individual possessing a dominant allele.
