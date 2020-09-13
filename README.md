@@ -15,3 +15,5 @@ Python scripts to solve Bioinformatics/Computational Biology tasks
     CountingPointMutations.py is for Counting Point Mutations(base change in nucleotide) in DNA.(Hamming Distance)
 # 7-DominantAllele.py
     DominantAllele.py is for computing an individual possessing a dominant allele.
+# 8-RNA_to_Proteins.py
+    RNA_to_Proteins.py is for translating RNA into Proteins.
