@@ -17,3 +17,5 @@ Python scripts to solve Bioinformatics/Computational Biology tasks
     DominantAllele.py is for computing an individual possessing a dominant allele.
 # 8-RNA_to_Proteins.py
     RNA_to_Proteins.py is for translating RNA into Proteins.
+# 9-MotifinDNA.py
+    MotifinDNA.py is for Finding a Motif in DNA(Pattern of specific length occuring multiple times inside of DNA string)
